@@ -14,7 +14,7 @@
 ### about
 
 - 🧑‍💻 junior dev at [Oncar](https://oncar.app), working across our whole stack 
-- 🛟 did a year in support. wrote enough SQL fixing incidents that they eventually gave me a dev title
+- 🛟 graduated from "have you tried turning it off and on" to actually turning things off and on in production
 - 🎓 2nd year CS student at UNIP
 
 ### stack
