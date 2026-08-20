@@ -1,139 +1,40 @@
-# 🧑🏻‍💻 Enzo Oliveira
+<h1 align="center">Hey, I'm Enzo 👋</h1>
 
-**`Desenvolvedor Back-End`**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=500&lines=Junior+Dev+%40+Oncar;Go+%C2%B7+Node+%C2%B7+Next;ex-support%2C+now+shipping+prod;moving+to+England+in+2027" alt="Typing SVG" />
+</p>
 
-Me chamo Enzo Gabriel, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio na instituição UNIVAP, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIP. Sou fascinado por tecnologia e jogos e gosto de desenvolver projetos pessoais tanto para fins de estudo quanto um portfolio profissional".
-
-<p align="left">
-<a href="https://github.com/EnzoOliveir19?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/EnzoOliveir19?color=red&labelColor=8B0000&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/enzogabrieldev/"           target="_blank">
-        <img 
-        src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
-        alt="LinkedIn"
-         />
-    </a>
-    <a href="https://github.com/EnzoOliveir19?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/EnzoOliveir19?color=yellow&style=for-the-badge&labelColor=FFD700&logo=star&label=Estrelas&logoColor=black"
-        />
-    </a>
-    
-
+<p align="center">
+  <img src="https://img.shields.io/badge/@oncarapp-000000?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/S%C3%A3o%20Jos%C3%A9%20dos%20Campos-BR-009c3b?style=flat-square" />
 </p>
 
 ---
 
+### about
 
-### 🤖 Linguagens e Tecnologias
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left"
-    alt="C#"
-    title="C#"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/>
-<img 
-    align="left"
-    alt="C"
-    title="C"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
-    
-<img
-    align="left"
-    alt="MYSQL"
-    title="MYSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-          
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+- 🧑‍💻 junior dev at [Oncar](https://oncar.app), working across our whole stack 
+- 🛟 started in support last year, promoted to eng in August. still know where all the bodies are buried
+- 🎓 2nd year CS student at UNIP
 
-<br/>
-<br/>
+### stack
 
-### 📊 Estatísticas
+<p align="left">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=EnzoOliveir19&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-/>
+### reach out
 
-
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="185"
-    style="padding-right:10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoOliveir19&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-/>
-
+<p align="left">
+  <a href="https://linkedin.com/in/enzogabrieldev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:enzoprofgit@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
