@@ -14,7 +14,7 @@
 ### about
 
 - 🧑‍💻 junior dev at [Oncar](https://oncar.app), working across our whole stack 
-- 🛟 started in support last year, promoted to eng in August. still know where all the bodies are buried
+- 🛟 did a year in support. wrote enough SQL fixing incidents that they eventually gave me a dev title
 - 🎓 2nd year CS student at UNIP
 
 ### stack
