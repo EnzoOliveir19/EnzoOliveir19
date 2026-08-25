@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Enzo 👋</h1>
+<h1 align="center">Hey, I'm Enzo </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=500&lines=Junior+Dev+%40+Oncar;Go+%C2%B7+Node+%C2%B7+Next;ex-support%2C+now+shipping+prod" alt="Typing SVG" />
